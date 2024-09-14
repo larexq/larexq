@@ -1,11 +1,14 @@
-### I'm Larex
+<div align="center">
+<h1> I'm Larex </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larexq&label=Profile%20views&color=0e75b6&style=flat" alt="Larex" /> </p>
 
+<div align="center">
 <h1> Language/Tools </h1>
 
 <img src="https://skillicons.dev/icons?i=js,ts,mongodb,discord,git,cloudflare,github,nodejs,vscode,discordjs" />
 
+<div align="center">
 <h1> Github Stats / My achievements </h1>
 <details>
 <p align="center">
@@ -24,6 +27,7 @@
 </p>
 </details>
 
+<div align="center">
 <h1> My Discord Profile </h1>
 
 <div align="left">
