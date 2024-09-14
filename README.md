@@ -1,9 +1,10 @@
 <div align="center">
- <h1>I'm Larex</h1> 
+  <h1>I'm Larex</h1>
 
- - self-employed developer
- - 5 years experience
-
+  <p style="display: inline-block; text-align: left;">
+    - self-employed developer<br>
+    - 5 years experience
+  </p>
 </div>
 
 <div align="center">
