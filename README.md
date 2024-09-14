@@ -4,12 +4,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=larexq&label=Profile%20views&color=0e75b6&style=flat" alt="Larex" /> </p>
 
 <div align="center">
-<h1> Language/Tools </h1>
+<h1> Languages & Tools </h1>
 
 <img src="https://skillicons.dev/icons?i=js,ts,mongodb,discord,git,cloudflare,github,nodejs,vscode,discordjs" />
 
 <div align="center">
-<h1> Github Stats / My achievements </h1>
+<h1> Github Stats </h1>
 <details>
 <p align="center">
   <a href="https://github.com/larexq">
@@ -28,7 +28,7 @@
 </details>
 
 <div align="center">
-<h1> My Discord Profile </h1>
+<h1> Discord Profile </h1>
 
 <div align="center">
 <p href="https://discord.com/users/599671578283868160" title="Discord"><img src="https://lanyard.cnrad.dev/api/599671578283868160?theme=dark&animated=true&hideDiscrim=false"></p>
