@@ -14,6 +14,8 @@
 
 # My Github Stats
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larexq&theme=github_dark)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larexq&show_icons=true&theme=dark&locale=tr" alt="Larex"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&theme=dark&locale=tr" alt="Larex" /></p>
