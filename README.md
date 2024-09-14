@@ -5,7 +5,7 @@
     self-employed developer<br>
     5 years experience
   </p>
-</div>
+
  <img src="https://komarev.com/ghpvc/?username=larexq&color=blue" />
 
 <div align="center">
