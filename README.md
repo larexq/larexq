@@ -30,6 +30,6 @@
 <div align="center">
 <h1> My Discord Profile </h1>
 
-<div align="left">
+<div align="center">
 <p href="https://discord.com/users/599671578283868160" title="Discord"><img src="https://lanyard.cnrad.dev/api/599671578283868160?theme=dark&animated=true&hideDiscrim=false"></p>
 </div>
