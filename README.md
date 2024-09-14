@@ -1,6 +1,9 @@
 <div align="center">
 <h1> I'm Larex </h1>
 
++ self-employed developer
++ 5 years experience
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=larexq&label=Profile%20views&color=0e75b6&style=flat" alt="Larex" /> </p>
 
 <div align="center">
