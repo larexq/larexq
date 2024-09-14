@@ -4,7 +4,7 @@
 
 # Language and Tools
 
-https://skillicons.dev/icons?i=js,ts,mongodb,discord,git,cloudflare,github,nodejs,vscode,discordjs
+<img src="https://skillicons.dev/icons?i=js,ts,mongodb,discord,git,cloudflare,github,nodejs,vscode,discordjs" />
 
 # My Discord Profile
 
