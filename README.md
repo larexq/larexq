@@ -29,9 +29,3 @@
   </a>
 </p>
 </details>
-
-# My Github Stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=larexq&show_icons=true&theme=dark&locale=tr" alt="Larex"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&theme=dark&locale=tr" alt="Larex" /></p>
