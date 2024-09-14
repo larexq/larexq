@@ -6,6 +6,7 @@
     5 years experience
   </p>
 </div>
+ <img src="https://komarev.com/ghpvc/?username=larexq&color=blue" />
 
 <div align="center">
 <h1> Languages & Tools </h1>
