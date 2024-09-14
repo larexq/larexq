@@ -5,7 +5,7 @@
 # Discord Profilim
 
 <div align="left">
-<p href="https://discord.com/users/599671578283868160" title="Discord"><img src="https://lanyard.cnrad.dev/api/599671578283868160?theme=dark&animated=true&hideDiscrim=false&idleMessage=Hi%C3%A7%20bir%C5%9Fey%20yapm%C4%B1yor..."></p>
+<p href="https://discord.com/users/599671578283868160" title="Discord"><img src="https://lanyard.cnrad.dev/api/599671578283868160?theme=dark&animated=true&hideDiscrim=false"></p>
 </div>
 
 # Github Statlarım
