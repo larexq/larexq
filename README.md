@@ -18,16 +18,16 @@
 <details>
 <p align="center">
   <a href="https://github.com/larexq">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larexq&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larexq&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/larexq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&hide_border=true&card_width=338&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/larexq">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&card_width=338&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/larexq">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larexq&hide_border=true&card_width=338&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larexq&hide_border=true&card_width=338&theme=discord_old_blurple"/>
   </a>
 </p>
 </details>
