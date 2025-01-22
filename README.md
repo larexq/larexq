@@ -24,7 +24,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&hide_border=true&card_width=338&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/larexq">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=larexq&theme=discord_old_blurple" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=larexq&card_width=338&theme=discord-old-blurple" />
   </a>
   <a href="https://github.com/larexq">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=larexq&hide_border=true&card_width=338&theme=discord_old_blurple"/>
