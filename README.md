@@ -3,7 +3,7 @@
 
   <p style="display: inline-block; text-align: center;">
     self-employed developer<br>
-    5 years experience
+    6 years experience
   </p>
 
  <img src="https://komarev.com/ghpvc/?username=larexq&color=blue" />
