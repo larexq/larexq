@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>I'm Larex</h1>
+  <h1>Larex</h1>
 
   <p style="display: inline-block; text-align: center;">
     self-employed developer<br>
